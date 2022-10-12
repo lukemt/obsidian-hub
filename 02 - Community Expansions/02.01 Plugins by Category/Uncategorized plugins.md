@@ -300,6 +300,16 @@ Plugins which have not yet been categorized by the community.
 - [[google-calendar|Google Calendar]]
 - [[obsidian-copy-search-url|Copy Search URL]]
 - [[simple-time-tracker|Super Simple Time Tracker]]
+- [[blockquote-levels|Blockquote Levels]]
+- [[obsidian-system-theme|System Theme]]
+- [[custom-sort|Custom File Explorer sorting]]
+- [[obsidian-table-generator|Table Generator]]
+- [[aosr|Aosr]]
+- [[obsidian-meta-bind-plugin|Meta Bind Plugin]]
+- [[microblog-publish-plugin|Micro.publish]]
+- [[obsidian-sakana-widget|Sakana Widget]]
+- [[obsidian-min-width|Min Width]]
+- [[onyx-boox-extractor|Onyx Boox Annotation & Highlight Extractor]]
 
 
 %% Hub footer: Please don't edit anything below this line %%
